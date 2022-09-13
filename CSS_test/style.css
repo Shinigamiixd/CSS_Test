@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.div1{
+    height: 80px;
+    outline-style: solid;
+    outline-width: 1px;
+    margin: 50px;
+    padding: 5px;
+    box-shadow: 10px 5px 5px #d303fc;
+}
+
+.div2{
+    height: 80px;
+    outline-style: solid;
+    outline-width: 1px;
+    margin: 50px;
+    padding: 5px;
+    box-shadow: 10px 5px 5px #03dffc;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.random{
+    height: 80px;
+    outline-style: solid;
+    outline-width: 1px;
+    margin: 50px;
+    padding: 5px;
+    box-shadow: 10px 5px 5px #fcba03;
+}
